@@ -1,0 +1,38 @@
+<mujocoinclude>
+
+    <sensor>
+        <magnetometer name="mag11" site="mag11"/>
+        <magnetometer name="mag12" site="mag12"/>
+        <magnetometer name="mag15" site="mag15"/>
+        <magnetometer name="mag16" site="mag16"/>
+        <magnetometer name="mag21" site="mag21"/>
+        <magnetometer name="mag22" site="mag22"/>
+        <magnetometer name="mag23" site="mag23"/>
+        <magnetometer name="mag24" site="mag24"/>
+        <magnetometer name="mag25" site="mag25"/>
+        <magnetometer name="mag26" site="mag26"/>
+        <magnetometer name="mag31" site="mag31"/>
+        <magnetometer name="mag32" site="mag32"/>
+        <magnetometer name="mag33" site="mag33"/>
+        <magnetometer name="mag34" site="mag34"/>
+        <magnetometer name="mag35" site="mag35"/>
+        <magnetometer name="mag36" site="mag36"/>
+        <magnetometer name="mag41" site="mag41"/>
+        <magnetometer name="mag42" site="mag42"/>
+        <magnetometer name="mag43" site="mag43"/>
+        <magnetometer name="mag44" site="mag44"/>
+        <magnetometer name="mag45" site="mag45"/>
+        <magnetometer name="mag46" site="mag46"/>
+        <magnetometer name="mag51" site="mag51"/>
+        <magnetometer name="mag52" site="mag52"/>
+        <magnetometer name="mag53" site="mag53"/>
+        <magnetometer name="mag54" site="mag54"/>
+        <magnetometer name="mag55" site="mag55"/>
+        <magnetometer name="mag56" site="mag56"/>
+        <magnetometer name="mag62" site="mag62"/>
+        <magnetometer name="mag63" site="mag63"/>
+        <magnetometer name="mag64" site="mag64"/>
+        <magnetometer name="mag65" site="mag65"/>
+    </sensor>
+
+</mujocoinclude>
