@@ -1,38 +1,65 @@
 <mujocoinclude>
 
     <sensor>
-        <magnetometer name="mag11" site="mag11"/>
-        <magnetometer name="mag12" site="mag12"/>
-        <magnetometer name="mag15" site="mag15"/>
-        <magnetometer name="mag16" site="mag16"/>
-        <magnetometer name="mag21" site="mag21"/>
-        <magnetometer name="mag22" site="mag22"/>
-        <magnetometer name="mag23" site="mag23"/>
-        <magnetometer name="mag24" site="mag24"/>
-        <magnetometer name="mag25" site="mag25"/>
-        <magnetometer name="mag26" site="mag26"/>
-        <magnetometer name="mag31" site="mag31"/>
-        <magnetometer name="mag32" site="mag32"/>
-        <magnetometer name="mag33" site="mag33"/>
-        <magnetometer name="mag34" site="mag34"/>
-        <magnetometer name="mag35" site="mag35"/>
-        <magnetometer name="mag36" site="mag36"/>
-        <magnetometer name="mag41" site="mag41"/>
-        <magnetometer name="mag42" site="mag42"/>
-        <magnetometer name="mag43" site="mag43"/>
-        <magnetometer name="mag44" site="mag44"/>
-        <magnetometer name="mag45" site="mag45"/>
-        <magnetometer name="mag46" site="mag46"/>
-        <magnetometer name="mag51" site="mag51"/>
-        <magnetometer name="mag52" site="mag52"/>
-        <magnetometer name="mag53" site="mag53"/>
-        <magnetometer name="mag54" site="mag54"/>
-        <magnetometer name="mag55" site="mag55"/>
-        <magnetometer name="mag56" site="mag56"/>
-        <magnetometer name="mag62" site="mag62"/>
-        <magnetometer name="mag63" site="mag63"/>
-        <magnetometer name="mag64" site="mag64"/>
-        <magnetometer name="mag65" site="mag65"/>
+        <magnetometer name="Pmag11" site="Pmag11"/>
+        <magnetometer name="Pmag12" site="Pmag12"/>
+        <magnetometer name="Pmag15" site="Pmag15"/>
+        <magnetometer name="Pmag16" site="Pmag16"/>
+        <magnetometer name="Pmag21" site="Pmag21"/>
+        <magnetometer name="Pmag22" site="Pmag22"/>
+        <magnetometer name="Pmag23" site="Pmag23"/>
+        <magnetometer name="Pmag24" site="Pmag24"/>
+        <magnetometer name="Pmag25" site="Pmag25"/>
+        <magnetometer name="Pmag26" site="Pmag26"/>
+        <magnetometer name="Pmag31" site="Pmag31"/>
+        <magnetometer name="Pmag32" site="Pmag32"/>
+        <magnetometer name="Pmag33" site="Pmag33"/>
+        <magnetometer name="Pmag34" site="Pmag34"/>
+        <magnetometer name="Pmag35" site="Pmag35"/>
+        <magnetometer name="Pmag36" site="Pmag36"/>
+        <magnetometer name="Pmag41" site="Pmag41"/>
+        <magnetometer name="Pmag42" site="Pmag42"/>
+        <magnetometer name="Pmag43" site="Pmag43"/>
+        <magnetometer name="Pmag44" site="Pmag44"/>
+        <magnetometer name="Pmag45" site="Pmag45"/>
+        <magnetometer name="Pmag46" site="Pmag46"/>
+        <magnetometer name="Pmag51" site="Pmag51"/>
+        <magnetometer name="Pmag52" site="Pmag52"/>
+        <magnetometer name="Pmag53" site="Pmag53"/>
+        <magnetometer name="Pmag54" site="Pmag54"/>
+        <magnetometer name="Pmag55" site="Pmag55"/>
+        <magnetometer name="Pmag56" site="Pmag56"/>
+        <magnetometer name="Pmag62" site="Pmag62"/>
+        <magnetometer name="Pmag63" site="Pmag63"/>
+        <magnetometer name="Pmag64" site="Pmag64"/>
+        <magnetometer name="Pmag65" site="Pmag65"/>
+
+        <magnetometer name="TFmag11" site="TFmag11"/>
+        <magnetometer name="TFmag12" site="TFmag12"/>
+        <magnetometer name="TFmag21" site="TFmag21"/>
+        <magnetometer name="TFmag22" site="TFmag22"/>
+        <magnetometer name="TFmag31" site="TFmag31"/>
+        <magnetometer name="TFmag32" site="TFmag32"/>
+        <magnetometer name="TFmag41" site="TFmag41"/>
+        <magnetometer name="TFmag42" site="TFmag42"/>
+
+        <magnetometer name="IFmag11" site="IFmag11"/>
+        <magnetometer name="IFmag12" site="IFmag12"/>
+        <magnetometer name="IFmag21" site="IFmag21"/>
+        <magnetometer name="IFmag22" site="IFmag22"/>
+        <magnetometer name="IFmag31" site="IFmag31"/>
+        <magnetometer name="IFmag32" site="IFmag32"/>
+        <magnetometer name="IFmag41" site="IFmag41"/>
+        <magnetometer name="IFmag42" site="IFmag42"/>
+
+        <magnetometer name="LFmag11" site="LFmag11"/>
+        <magnetometer name="LFmag12" site="LFmag12"/>
+        <magnetometer name="LFmag21" site="LFmag21"/>
+        <magnetometer name="LFmag22" site="LFmag22"/>
+        <magnetometer name="LFmag31" site="LFmag31"/>
+        <magnetometer name="LFmag32" site="LFmag32"/>
+        <magnetometer name="LFmag41" site="LFmag41"/>
+        <magnetometer name="LFmag42" site="LFmag42"/>
     </sensor>
 
 </mujocoinclude>

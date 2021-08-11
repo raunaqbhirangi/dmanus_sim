@@ -1,0 +1,10 @@
+<mujocoinclude>
+    <site name="LFmag11" type="box" pos="" size="" class="viz_dhand"/>
+    <site name="LFmag12" type="box" pos="" size="" class="viz_dhand"/>
+    <site name="LFmag21" type="box" pos="" size="" class="viz_dhand"/>
+    <site name="LFmag22" type="box" pos="" size="" class="viz_dhand"/>
+    <site name="LFmag31" type="box" pos="" size="" class="viz_dhand"/>
+    <site name="LFmag32" type="box" pos="" size="" class="viz_dhand"/>
+    <site name="LFmag41" type="box" pos="" size="" class="viz_dhand"/>
+    <site name="LFmag42" type="box" pos="" size="" class="viz_dhand"/>
+</mujocoinclude>
