@@ -1,10 +1,10 @@
 <mujocoinclude>
-    <site name="LFmag11" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="LFmag12" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="LFmag21" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="LFmag22" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="LFmag31" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="LFmag32" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="LFmag41" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="LFmag42" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="LFmag11" type="box" pos="-0.005 -0.015 0.04" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="LFmag12" type="box" pos="0.005 -0.015 0.04" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="LFmag21" type="box" pos="-0.005 -0.015 0.055" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="LFmag22" type="box" pos="0.005 -0.015 0.055" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="LFmag31" type="box" pos="-0.005 -0.015 0.070" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="LFmag32" type="box" pos="0.005 -0.015 0.070" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="LFmag41" type="box" pos="-0.005 -0.015 0.085" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="LFmag42" type="box" pos="0.005 -0.015 0.085" size="0.003 0.001 0.003" class="viz_dhand"/>
 </mujocoinclude>

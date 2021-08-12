@@ -1,10 +1,10 @@
 <mujocoinclude>
-    <site name="TFmag11" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="TFmag12" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="TFmag21" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="TFmag22" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="TFmag31" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="TFmag32" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="TFmag41" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
-    <site name="TFmag42" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="TFmag11" type="box" pos="-0.005 -0.015 0.04" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="TFmag12" type="box" pos="0.005 -0.015 0.04" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="TFmag21" type="box" pos="-0.005 -0.015 0.055" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="TFmag22" type="box" pos="0.005 -0.015 0.055" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="TFmag31" type="box" pos="-0.005 -0.015 0.070" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="TFmag32" type="box" pos="0.005 -0.015 0.070" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="TFmag41" type="box" pos="-0.005 -0.015 0.085" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="TFmag42" type="box" pos="0.005 -0.015 0.085" size="0.003 0.001 0.003" class="viz_dhand"/>
 </mujocoinclude>
