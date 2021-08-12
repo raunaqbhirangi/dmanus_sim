@@ -1,10 +1,10 @@
 <mujocoinclude>
-    <site name="IFmag11" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="IFmag12" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="IFmag21" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="IFmag22" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="IFmag31" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="IFmag32" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="IFmag41" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="IFmag42" type="box" pos="" size="" class="viz_dhand"/>
+    <site name="IFmag11" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="IFmag12" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="IFmag21" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="IFmag22" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="IFmag31" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="IFmag32" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="IFmag41" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="IFmag42" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
 </mujocoinclude>

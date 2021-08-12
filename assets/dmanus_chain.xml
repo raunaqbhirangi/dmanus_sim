@@ -12,7 +12,8 @@
         <!--Plate-->
           <geom name="plate1_mesh" mesh="plate" pos="0 -0.0255 0.1032" class="viz_dhand"/>
           <geom name="plate2_mesh" mesh="plate" pos="0 0.0235 0.1032" class="viz_dhand"/>
-
+          
+          <include file="assets/dmanus_skin/palm_skin.xml"/>
         <!--Thumb finger-->
         <body name="Thumb_finger" pos="0.0343 0.0015 0.027" euler="0 1.92 0">
             <geom name="X4307_mesh" mesh="X430" pos="0 0 0" class="viz_dhand"/>
@@ -39,6 +40,8 @@
                            <!-- <geom name="fingertip3" type="box" pos="0 0 0.071" size="0.01 0.012 0.043" class="col_dhand"/> -->
                             <geom name="fingertip3_mesh" mesh="fingertip" pos="0 0 0.028" class="viz_dhand"/>
                             <geom name="convextip3" type="mesh" mesh="fingertipc" pos="0 0 0.028" class="col_dhand"/>
+                            <include file="assets/dmanus_skin/thumb_skin.xml"/>
+
                             <joint name="TFJ3" type="hinge" pos="0 0 0" axis="1 0 0" limited="true" range="-2.0 2.0"/>
                         </body>
                     </body>
@@ -72,6 +75,8 @@
                       <!--  <geom name="fingertip" type="box" pos="0 0 0.071" size="0.01 0.012 0.043" class="col_dhand"/> -->
                         <geom name="fingertip_mesh" mesh="fingertip" pos="0 0 0.028" class="viz_dhand"/>
                         <geom name="convextip1" type="mesh" mesh="fingertipc" pos="0 0 0.028" class="col_dhand"/>
+                        <include file="assets/dmanus_skin/indexf_skin.xml"/>
+
                         <joint name="IFJ3" type="hinge" pos="0 0 0" axis="1 0 0" limited="true" range="-2.0 2.0"/>
                     </body>
                 </body>
@@ -104,6 +109,9 @@
                           <!--  <geom name="fingertip2" type="box" pos="0 0 0.071" size="0.01 0.012 0.043" class="col_dhand"/> -->
                             <geom name="fingertip2_mesh" mesh="fingertip" pos="0 0 0.028" class="viz_dhand"/>
                             <geom name="convextip2" type="mesh" mesh="fingertipc" pos="0 0 0.028" class="col_dhand"/>
+                            
+                            <include file="assets/dmanus_skin/littlef_skin.xml"/>
+
                             <joint name="LFJ3" type="hinge" pos="0 0 0" axis="1 0 0" limited="true" range="-2.0 2.0"/>
                         </body>
                     </body>

@@ -1,10 +1,10 @@
 <mujocoinclude>
-    <site name="TFmag11" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="TFmag12" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="TFmag21" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="TFmag22" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="TFmag31" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="TFmag32" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="TFmag41" type="box" pos="" size="" class="viz_dhand"/>
-    <site name="TFmag42" type="box" pos="" size="" class="viz_dhand"/>
+    <site name="TFmag11" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="TFmag12" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="TFmag21" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="TFmag22" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="TFmag31" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="TFmag32" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="TFmag41" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
+    <site name="TFmag42" type="box" pos="" size="0.004 0.004 0.001" class="viz_dhand"/>
 </mujocoinclude>
