@@ -3,4 +3,8 @@
         <position joint="WJLR" name="WALR" kp="100" ctrllimited="true" ctrlrange="-0.52 0.52"/>
         <position joint="WJUD" name="WAUD" kp="100" ctrllimited="true" ctrlrange="-0.785 0.785"/>
     </actuator>
+    <sensor>
+        <jointpos name="WJLR" joint="WJLR"/>
+        <jointpos name="WJUD" joint="WJUD"/>
+    </sensor>
 </mujocoinclude>
