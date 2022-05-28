@@ -1,0 +1,34 @@
+<mujocoinclude>
+    <site name="Pmag11" type="box" pos="-0.05 -0.0255 0.1016" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag12" type="box" pos="-0.03 -0.0255 0.1016" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag15" type="box" pos="0.03 -0.0255 0.1016" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag16" type="box" pos="0.05 -0.0255 0.1016" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag21" type="box" pos="-0.05 -0.0255 0.0816" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag22" type="box" pos="-0.03 -0.0255 0.0816" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag23" type="box" pos="-0.01 -0.0255 0.0816" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag24" type="box" pos="0.01 -0.0255 0.0816" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag25" type="box" pos="0.03 -0.0255 0.0816" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag26" type="box" pos="0.05 -0.0255 0.0816" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag31" type="box" pos="-0.05 -0.0255 0.0616" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag32" type="box" pos="-0.03 -0.0255 0.0616" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag33" type="box" pos="-0.01 -0.0255 0.0616" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag34" type="box" pos="0.01 -0.0255 0.0616" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag35" type="box" pos="0.03 -0.0255 0.0616" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag36" type="box" pos="0.05 -0.0255 0.0616" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag41" type="box" pos="-0.05 -0.0255 0.0416" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag42" type="box" pos="-0.03 -0.0255 0.0416" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag43" type="box" pos="-0.01 -0.0255 0.0416" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag44" type="box" pos="0.01 -0.0255 0.0416" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag45" type="box" pos="0.03 -0.0255 0.0416" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag46" type="box" pos="0.05 -0.0255 0.0416" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag51" type="box" pos="-0.05 -0.0255 0.0216" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag52" type="box" pos="-0.03 -0.0255 0.0216" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag53" type="box" pos="-0.01 -0.0255 0.0216" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag54" type="box" pos="0.01 -0.0255 0.0216" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag55" type="box" pos="0.03 -0.0255 0.0216" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag56" type="box" pos="0.05 -0.0255 0.0216" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag62" type="box" pos="-0.03 -0.0255 0.0016" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag63" type="box" pos="-0.01 -0.0255 0.0016" size="0.003 0.001 0.003" class="viz_dhand"/>
+    <site name="Pmag64" type="box" pos="0.01 -0.0255 0.0016" size="0.003 0.001 0.003" class="viz_dhand"/>
+            <site name="Pmag65" type="box" pos="0.03 -0.0255 0.0016" size="0.003 0.001 0.003" class="viz_dhand"/>
+</mujocoinclude>
