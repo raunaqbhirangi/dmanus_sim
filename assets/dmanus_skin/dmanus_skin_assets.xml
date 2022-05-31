@@ -59,7 +59,7 @@
         <magnetometer name="LFmag31" site="LFmag31"/>
         <magnetometer name="LFmag32" site="LFmag32"/>
         <magnetometer name="LFmag41" site="LFmag41"/>
-        <magnetometer name="LFmag42" site="LFmag42"/>
+        <magnetometer name="LFmag42" site="LFmag42" />
     </sensor>
 
 </mujocoinclude>
